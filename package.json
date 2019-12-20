@@ -10,6 +10,7 @@
     "basicauth"
   ],
   "repository": "jshttp/basic-auth",
+  "types": "index.d.ts",
   "dependencies": {
   },
   "devDependencies": {
