@@ -1,5 +1,5 @@
 {
-  "name": "basic-auth",
+  "name": "@stableness/basic-auth",
   "description": "node.js basic auth parser",
   "version": "102.0.1",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "authorization",
     "basicauth"
   ],
-  "repository": "jshttp/basic-auth",
+  "repository": "stableness/basic-auth",
   "types": "index.d.ts",
   "dependencies": {
   },
